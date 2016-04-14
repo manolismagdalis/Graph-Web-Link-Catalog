@@ -1,9 +1,9 @@
 # Graph-Web-Link-Catalog
 
 
-    @author: Emmanouil Magdalis
+# author: Emmanouil Magdalis
 
-    @version: 1.0.0
+# version: 1.0.0
 
     The following program organizes web page links in a graph. The vertices of the graph are stored
     in a hashtable instead of a sorted array. Thus, in order to find the neighbours of an edge,
